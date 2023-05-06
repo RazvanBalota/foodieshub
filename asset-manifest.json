@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/signus/static/css/main.9a4b7354.css",
-    "main.js": "/signus/static/js/main.76ec1de2.js",
-    "index.html": "/signus/index.html",
-    "main.9a4b7354.css.map": "/signus/static/css/main.9a4b7354.css.map",
-    "main.76ec1de2.js.map": "/signus/static/js/main.76ec1de2.js.map"
+    "main.css": "/foodieshub/static/css/main.9a4b7354.css",
+    "main.js": "/foodieshub/static/js/main.76ec1de2.js",
+    "index.html": "/foodieshub/index.html",
+    "main.9a4b7354.css.map": "/foodieshub/static/css/main.9a4b7354.css.map",
+    "main.76ec1de2.js.map": "/foodieshub/static/js/main.76ec1de2.js.map"
   },
   "entrypoints": [
     "static/css/main.9a4b7354.css",
